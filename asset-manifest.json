@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Password-Generator---ReactJS/static/css/main.2997bc76.css",
-    "main.js": "/Password-Generator---ReactJS/static/js/main.a8a10dca.js",
-    "index.html": "/Password-Generator---ReactJS/index.html",
-    "static/media/copy icon.svg": "/Password-Generator---ReactJS/static/media/copy icon.3e4bbb21d92906d72f34819cdf6a4bb3.svg",
-    "main.2997bc76.css.map": "/Password-Generator---ReactJS/static/css/main.2997bc76.css.map",
-    "main.a8a10dca.js.map": "/Password-Generator---ReactJS/static/js/main.a8a10dca.js.map"
+    "main.css": "/Password-Generator-ReactJS/static/css/main.2997bc76.css",
+    "main.js": "/Password-Generator-ReactJS/static/js/main.3bd12766.js",
+    "index.html": "/Password-Generator-ReactJS/index.html",
+    "static/media/copy icon.svg": "/Password-Generator-ReactJS/static/media/copy icon.3e4bbb21d92906d72f34819cdf6a4bb3.svg",
+    "main.2997bc76.css.map": "/Password-Generator-ReactJS/static/css/main.2997bc76.css.map",
+    "main.3bd12766.js.map": "/Password-Generator-ReactJS/static/js/main.3bd12766.js.map"
   },
   "entrypoints": [
     "static/css/main.2997bc76.css",
-    "static/js/main.a8a10dca.js"
+    "static/js/main.3bd12766.js"
   ]
 }
